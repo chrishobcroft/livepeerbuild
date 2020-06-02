@@ -1,5 +1,6 @@
 # livepeerbuild
 
+```
 sudo apt-get update
 sudo apt-get install build-essential 
 sudo apt-get install pkg-config
@@ -12,3 +13,4 @@ git clone https://github.com/livepeer/go-livepeer.git
 cd go-livepeer
 ./install_ffmpeg.sh 
 ls /home/ubuntu/compiled/lib/pkgconfig | grep gnutls
+```
